@@ -1,1 +1,3 @@
-# au-baseball-client
+# AU 야구게임 클라이언트
+
+> Unity 2019.3.13f1기준으로 개발합니다.
